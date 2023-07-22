@@ -1,1 +1,2 @@
-Another read me for my repository
+Another read me for my repository.
+Edited my readme from github interface.
